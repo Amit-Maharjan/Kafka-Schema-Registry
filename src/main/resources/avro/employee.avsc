@@ -12,21 +12,18 @@
       "type": "string"
     },
     {
+      "name": "middleName",
+      "type": "string",
+      "default": ""
+    },
+    {
       "name": "lastName",
       "type": "string"
     },
     {
-      "name": "email",
+      "name": "emailId",
       "type": ["null", "string"],
       "default": null
-    },
-    {
-      "name": "dob",
-      "type": "string"
-    },
-    {
-      "name": "age",
-      "type": "int"
     }
   ]
 }
